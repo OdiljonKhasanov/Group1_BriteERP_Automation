@@ -3,9 +3,14 @@
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
     <list default="true" id="38fd7d68-2b93-4367-9ad5-ceea8112d2ab" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vytrackautomation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackautomation/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vytrackautomation/src/test/java/com/vytrack/utilities/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackautomation/src/test/java/com/vytrack/utilities/SeleniumUtils.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
 =======
     <list default="true" id="38fd7d68-2b93-4367-9ad5-ceea8112d2ab" name="Default Changelist" comment="" />
@@ -48,7 +53,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="285">
+=======
+            <state relative-caret-position="293">
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
               <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -63,7 +72,11 @@
 <<<<<<< Updated upstream
             <state relative-caret-position="272">
 =======
+<<<<<<< HEAD
             <state relative-caret-position="15">
+=======
+            <state relative-caret-position="123">
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
 >>>>>>> Stashed changes
               <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
@@ -126,12 +139,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Group1_BriteERP_Automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Group1_BriteERP_Automation" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+            </path>
+            <path>
+              <item name="Group1_BriteERP_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group1_BriteERP_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
+            </path>
+            <path>
+              <item name="Group1_BriteERP_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group1_BriteERP_Automation" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
             </path>
             <path>
               <item name="Group1_BriteERP_Automation" type="b2602c69:ProjectViewProjectNode" />
@@ -157,32 +189,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group1_BriteERP_Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group1_BriteERP_Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group1_BriteERP_Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group1_BriteERP_Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
+=======
+>>>>>>> Stashed changes
       <pane id="Scope" />
     </panes>
   </component>
@@ -225,9 +241,15 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
 =======
+<<<<<<< HEAD
     <frame x="0" y="23" width="1440" height="830" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23175965" />
+=======
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23667206" />
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
 >>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -242,7 +264,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3699187" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32846716" />
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3261105" />
@@ -287,25 +313,56 @@
           <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java">
+=======
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BriteERPautomation.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> Stashed changes
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="285">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+=======
+        <state relative-caret-position="123">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
         <state relative-caret-position="272">
           <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
 =======
+<<<<<<< HEAD
         <state relative-caret-position="210">
           <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
 >>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
@@ -316,9 +373,11 @@
 <<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/com/BriteERP/utilities/ConfigurationReader.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="255">
           <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
 =======
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/BriteERPautomation.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -326,6 +385,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+=======
+        <state relative-caret-position="210">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+>>>>>>> 9e0d38b62a47c575f50861a8ec6a81fd0f8c2dc2
 >>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
