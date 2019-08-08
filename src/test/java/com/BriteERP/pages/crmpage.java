@@ -1,8 +1,8 @@
 package com.BriteERP.pages;
 
+import com.BriteERP.utilities.ConfigurationReader;
+
 public class crmpage {
 
-    public static void main(String[] args) {
-         String sdr = "hello world";
-    }
+
 }

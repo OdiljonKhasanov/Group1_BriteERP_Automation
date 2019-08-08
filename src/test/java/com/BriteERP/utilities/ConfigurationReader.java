@@ -7,15 +7,22 @@ public class ConfigurationReader {
 
     private static Properties configFile;
 
-
     static {
-
         try {
-            String path = "C:\\Users\\Odiljon\\IdeaProjects\\BriteERPautomation\\configuration.properties";
+            //path to our .properties file
+            //MIGHT BE WRONG PATH HERE, PAY ATTENTION
+            String path = "configuration.properties";
+            //we create object of input stream to access file
+            System.out.println(path);
+            //provides access to file
             FileInputStream input = new FileInputStream(path);
+            //initialize configFile
             configFile = new Properties();
+            //load properties file
             configFile.load(input);
-        } catch (Exception e) {
+            //close input stream
+            input.close();
+        } catch (Exception e){
             e.printStackTrace();
         }
     }
